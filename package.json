@@ -1,0 +1,17 @@
+{
+  "name": "parcial_3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.6"
+  },
+  "dependencies": {
+    "@types/node": "^20.10.3",
+    "node": "^21.2.0",
+    "toastify-js": "^1.12.0"
+  }
+}
